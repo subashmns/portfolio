@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "636a3dfe8e793faeb29f9dbe",
+    "name": "AllgoodServices (Website)",
+    "techstack": ["Next.js", "Node.js", "MongoDB"],
+    "Responsibilities": [
+      "Developed a fully dynamic and responsive website using Next.js, ensuring smooth navigation and user experience.",
+      "Implemented backend functionality with Node.js and MongoDB for seamless data management.",
+      "Designed and integrated advanced forms, including contact and health insurance forms, with real-time validation and secure data submission."
+    ],
+    "img": "https://source.unsplash.com/1600x900/?shirts"
+  },
+  {
+    "_id": "636a3dfe8e793faeb29f9dbe",
+    "name": "High Rices (MobileApp)",
+    "techstack": [ "Node.js", "MongoDB"],
+    "Responsibilities": [
+      "Design and implement efficient RESTful APIs using Node.js to ensure seamless communication between the mobile app and backend services, enhancing performance and scalability.",
+      "Use MongoDB for effective data storage and retrieval, ensuring optimized queries and indexing for fast access to user data and app functionalities.",
+      "Implement robust security measures, including data encryption and secure authentication, to protect user information and maintain data integrity throughout the mobile application."
+    ],
+    "img": "https://source.unsplash.com/1600x900/?shirts"
+  },
+  {
+    "_id": "636a3dfe8e793faeb29f9dbe",
+    "name": "Learning Management System (Website)",
+    "techstack": ["Next.js"],
+    "Responsibilities": [
+      "Designed and developed dynamic, mobile-friendly user interfaces using Next.js, ensuring cross-device compatibility and an intuitive user experience.",
+      "Integrated MySQL for secure and efficient data storage, leveraging best practices in data encryption, access control, and optimization for high-performance queries.",
+      "Built and maintained robust APIs and data models with Next.js, ensuring smooth communication between frontend and backend, enhancing the system's scalability and reliability."
+    ],
+    "img": "https://source.unsplash.com/1600x900/?shirts"
+  },
+  {
+    "_id": "636a3dfe8e793faeb29f9dbe",
+    "name": "ShriAgroBliss (Website)",
+    "techstack": ["WordPress", "Custom CSS"],
+    "Responsibilities": [
+      "Developed a fully dynamic and responsive website using Wordpress, ensuring smooth navigation and user experience.",
+      "Built a WordPress site with custom CSS and integrated payment gateways.",
+      "Managed hosting on Hostinger and integrated Shiprocket for shipping solutions"
+    ],
+    "img": "https://source.unsplash.com/1600x900/?shirts"
+  }
+]
