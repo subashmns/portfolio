@@ -44,7 +44,7 @@ function Home() {
               <div>
                 <a
                   className="navbar-brand d-flex align-items-center justify-content-center"
-                  href="#"
+                  href="/"
                 >
                   <img src="/images/profile.png" height="100" alt="Subash Ebanezer" />
                 </a>
