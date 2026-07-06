@@ -1,11 +1,9 @@
 import About from "../components/about-session";
-import Project_Card from "../components/card";
 import Contact from "../components/contact";
 import Home from "../components/home-session";
 import Skills from "../components/skills";
-import Projects_Page from "./Project";
 
-function Home_Page() {
+function HomePage() {
   return (
     <>
       <div className="content">
@@ -17,4 +15,4 @@ function Home_Page() {
     </>
   );
 }
-export default Home_Page;
+export default HomePage;

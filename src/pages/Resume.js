@@ -2,7 +2,7 @@
 import React from "react";
 import Resume from "../components/resume-card";
 
-const Resume_Page = () => {
+const ResumePage = () => {
   return (
     <>
       <div className="content pt-5" id="resume">
@@ -12,4 +12,4 @@ const Resume_Page = () => {
   );
 };
 
-export default Resume_Page;
+export default ResumePage;

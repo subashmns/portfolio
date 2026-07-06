@@ -1,7 +1,7 @@
 import About from "../components/about-session";
 import Contact from "../components/contact";
 
-function About_Page() {
+function AboutPage() {
   return (
     <>
       <div className="content">
@@ -11,4 +11,4 @@ function About_Page() {
     </>
   );
 }
-export default About_Page;
+export default AboutPage;

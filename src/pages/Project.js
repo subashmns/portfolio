@@ -1,17 +1,15 @@
 // pages/ProjectsPage.js
 import React from "react";
-import Project_Card from "../components/card";
+import ProjectCard from "../components/card";
 import Contact from "../components/contact";
 
-const Projects_Page = () => {
+const ProjectsPage = () => {
   return (
-    <>
-      <div className="content pt-5" id="project">
-        <Project_Card />
-        <Contact />
-      </div>
-    </>
+    <div className="content pt-5" id="project">
+      <ProjectCard />
+      <Contact />
+    </div>
   );
 };
 
-export default Projects_Page;
+export default ProjectsPage;

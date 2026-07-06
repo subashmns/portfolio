@@ -1,7 +1,7 @@
 import Contact from "../components/contact";
 import Skills from "../components/skills";
 
-function Skills_Page() {
+function SkillsPage() {
   return (
     <>
       <div className="content">
@@ -11,4 +11,4 @@ function Skills_Page() {
     </>
   );
 }
-export default Skills_Page;
+export default SkillsPage;

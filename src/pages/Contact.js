@@ -1,4 +1,4 @@
-function Contact_Page() {
+function ContactPage() {
   return (
     <>
       <div className="content pt-5" id="contact">
@@ -22,6 +22,7 @@ function Contact_Page() {
                     className="nav-link"
                     href="https://www.linkedin.com/in/subash-ebanezer/"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <i className="fa-brands fa-linkedin social-media"></i>
                   </a>
@@ -31,6 +32,7 @@ function Contact_Page() {
                     className="nav-link"
                     href="https://github.com/subashebanezer"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <i className="fa-brands fa-github social-media"></i>
                   </a>
@@ -41,8 +43,30 @@ function Contact_Page() {
                     className="nav-link"
                     href="mailto:subashebanezer@gmail.com"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <i className="fa-solid fa-envelope social-media"></i>
+                  </a>
+                </li>
+
+                <li className="nav-item px-1">
+                  <a
+                    className="nav-link"
+                    href="https://wa.me/917708771245"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <i className="fa-brands fa-whatsapp social-media"></i>
+                  </a>
+                </li>
+
+                <li className="nav-item px-1">
+                  <a
+                    className="nav-link"
+                    href="tel:+917708771245"
+                    rel="noreferrer"
+                  >
+                    <i className="fa-solid fa-phone social-media"></i>
                   </a>
                 </li>
               </ul>
@@ -79,9 +103,10 @@ function Contact_Page() {
           loading="lazy"
           referrerpolicy="no-referrer-when-downgrade"
           className="mt-5"
+          title="address"
         ></iframe>
       </div>
     </>
   );
 }
-export default Contact_Page;
+export default ContactPage;
