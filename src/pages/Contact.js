@@ -75,22 +75,29 @@ function ContactPage() {
         </div>
 
         <div className="row m-0 ">
-          <div className="col-lg-4 col-md-6 d-flex justify-content-center">
+          <div className="col-lg-3 col-md-6 d-flex justify-content-center">
             <div className="contact-box d-flex justify-content-center align-items-center">
               <i className="fa-brands fa-linkedin pb-3"></i>
               <h6>Subash Ebanezer</h6>
             </div>
           </div>
-          <div className="col-lg-4 col-md-6 padding-done d-flex justify-content-center">
+          <div className="col-lg-3 col-md-6 padding-done d-flex justify-content-center">
             <div className="contact-box d-flex justify-content-center align-items-center">
               <i className="fa-solid fa-location-dot pb-3"></i>
               <h6>Tirunelveli, Tamil Nadu</h6>
             </div>
           </div>
-          <div className="col-lg-4 col-md-12 padding d-flex justify-content-center">
+          <div className="col-lg-3 col-md-12 padding d-flex justify-content-center">
             <div className="contact-box d-flex justify-content-center align-items-center">
               <i className="fa-solid fa-envelope pb-3"></i>
               <h6>subashebanezer@gmail.com</h6>
+            </div>
+          </div>
+
+          <div className="col-lg-3 col-md-6 padding d-flex justify-content-center">
+            <div className="contact-box d-flex justify-content-center align-items-center">
+              <i className="fa-brands fa-whatsapp pb-3"></i>
+              <h6>+91 77087 71245</h6>
             </div>
           </div>
         </div>
