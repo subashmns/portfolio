@@ -87,14 +87,14 @@ function Skills() {
         <div className="row">
           <div className="col-lg-4 d-flex justify-content-center">
             <div className="skill-box">
-              <img src="/images/skills/typescript.png" height="80" alt="TypeScript" />
+              <img src="/images/skills/typescript.png" height="80" alt="TypeScript" style={{marginBottom:'5px'}} />
               <h6 className="text-color px-3">TypeScript</h6>
             </div>
           </div>
 
           <div className="col-lg-4 d-flex justify-content-center">
             <div className="skill-box">
-              <img src="/images/skills/firebase.png" height="80" alt="Firebase" />
+              <img src="/images/skills/Firebase.png" height="80" alt="Firebase" />
               <h6 className="text-color px-3">Firebase</h6>
             </div>
           </div>
