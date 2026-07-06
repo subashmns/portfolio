@@ -76,7 +76,7 @@ function Skills() {
 
           <div className="col-lg-4 d-flex justify-content-center">
             <div className="skill-box">
-              <img src="/images/skills/sequelize.png" height="80" alt="Sequelize" />
+              <img src="/images/skills/Sequelize.png" height="80" alt="Sequelize" />
               <img src="/images/skills/postman.png" height="80" alt="Postman" />
               <h6 className="text-color px-3">Sequelize & Postman</h6>
             </div>
